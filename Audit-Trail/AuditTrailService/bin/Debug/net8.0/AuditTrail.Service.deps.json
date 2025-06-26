@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AuditTrail.Service/1.0.0": {
+        "dependencies": {
+          "AuditTrail.Entities": "1.0.0"
+        },
+        "runtime": {
+          "AuditTrail.Service.dll": {}
+        }
+      },
+      "AuditTrail.Entities/1.0.0": {
+        "runtime": {
+          "AuditTrail.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuditTrail.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AuditTrail.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

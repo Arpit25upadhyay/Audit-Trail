@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditTrail.API", "AuditTrailAPI\AuditTrail.API.csproj", "{F96112A9-1633-4054-8954-A73E402CDDE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditTrail.Entities", "AuditTrailEntities\AuditTrail.Entities.csproj", "{60485AB5-83A1-4581-AC83-9293CEDF8C9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditTrailInterfaces", "AuditTrailInterfaces\AuditTrailInterfaces.csproj", "{D9D2B2B8-BF79-4191-99C9-34D2179945CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditTrail.Service", "AuditTrailService\AuditTrail.Service.csproj", "{A339F869-99DA-4B4A-84FA-0C9120F8CA45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96112A9-1633-4054-8954-A73E402CDDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96112A9-1633-4054-8954-A73E402CDDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96112A9-1633-4054-8954-A73E402CDDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96112A9-1633-4054-8954-A73E402CDDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60485AB5-83A1-4581-AC83-9293CEDF8C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60485AB5-83A1-4581-AC83-9293CEDF8C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60485AB5-83A1-4581-AC83-9293CEDF8C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60485AB5-83A1-4581-AC83-9293CEDF8C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D2B2B8-BF79-4191-99C9-34D2179945CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D2B2B8-BF79-4191-99C9-34D2179945CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D2B2B8-BF79-4191-99C9-34D2179945CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D2B2B8-BF79-4191-99C9-34D2179945CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A339F869-99DA-4B4A-84FA-0C9120F8CA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A339F869-99DA-4B4A-84FA-0C9120F8CA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A339F869-99DA-4B4A-84FA-0C9120F8CA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A339F869-99DA-4B4A-84FA-0C9120F8CA45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC02217-0617-45E3-B366-2003E46AAE7F}
+	EndGlobalSection
+EndGlobal

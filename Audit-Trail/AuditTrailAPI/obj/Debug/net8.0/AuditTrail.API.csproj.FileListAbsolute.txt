@@ -1,0 +1,71 @@
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.csproj.AssemblyReference.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.AssemblyInfoInputs.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.AssemblyInfo.cs
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.csproj.CoreCompileInputs.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.API.exe
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.API.deps.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.API.runtimeconfig.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.API.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.API.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.Entities.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.Service.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.Entities.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.Service.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets\msbuild.AuditTrail.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.AuditTrail.API.props
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuditTrail.API.props
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuditTrail.API.props
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\scopedcss\bundle\AuditTrail.API.styles.css
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.csproj.CopyComplete
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\refint\AuditTrail.API.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.genruntimeconfig.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailAPI\obj\Debug\net8.0\ref\AuditTrail.API.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.API.exe
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.API.deps.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.API.runtimeconfig.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.API.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.API.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.Entities.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.Service.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.Entities.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\bin\Debug\net8.0\AuditTrail.Service.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.csproj.AssemblyReference.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.AssemblyInfoInputs.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.AssemblyInfo.cs
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.csproj.CoreCompileInputs.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets\msbuild.AuditTrail.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.AuditTrail.API.props
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuditTrail.API.props
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuditTrail.API.props
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\scopedcss\bundle\AuditTrail.API.styles.css
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.csproj.CopyComplete
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\refint\AuditTrail.API.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\AuditTrail.API.genruntimeconfig.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailAPI\obj\Debug\net8.0\ref\AuditTrail.API.dll

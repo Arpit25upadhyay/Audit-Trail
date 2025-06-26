@@ -1,0 +1,22 @@
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailEntities\obj\Debug\net8.0\AuditTrail.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailEntities\obj\Debug\net8.0\AuditTrail.Entities.AssemblyInfoInputs.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailEntities\obj\Debug\net8.0\AuditTrail.Entities.AssemblyInfo.cs
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailEntities\obj\Debug\net8.0\AuditTrail.Entities.csproj.CoreCompileInputs.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailEntities\bin\Debug\net8.0\AuditTrail.Entities.deps.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailEntities\bin\Debug\net8.0\AuditTrail.Entities.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailEntities\bin\Debug\net8.0\AuditTrail.Entities.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailEntities\obj\Debug\net8.0\AuditTrail.Entities.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailEntities\obj\Debug\net8.0\refint\AuditTrail.Entities.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailEntities\obj\Debug\net8.0\AuditTrail.Entities.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailEntities\obj\Debug\net8.0\ref\AuditTrail.Entities.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailEntities\bin\Debug\net8.0\AuditTrail.Entities.deps.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailEntities\bin\Debug\net8.0\AuditTrail.Entities.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailEntities\bin\Debug\net8.0\AuditTrail.Entities.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailEntities\obj\Debug\net8.0\AuditTrail.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailEntities\obj\Debug\net8.0\AuditTrail.Entities.AssemblyInfoInputs.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailEntities\obj\Debug\net8.0\AuditTrail.Entities.AssemblyInfo.cs
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailEntities\obj\Debug\net8.0\AuditTrail.Entities.csproj.CoreCompileInputs.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailEntities\obj\Debug\net8.0\AuditTrail.Entities.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailEntities\obj\Debug\net8.0\refint\AuditTrail.Entities.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailEntities\obj\Debug\net8.0\AuditTrail.Entities.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailEntities\obj\Debug\net8.0\ref\AuditTrail.Entities.dll

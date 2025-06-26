@@ -1,0 +1,30 @@
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.AssemblyInfoInputs.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.AssemblyInfo.cs
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.csproj.CoreCompileInputs.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.csproj.AssemblyReference.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\bin\Debug\net8.0\AuditTrail.Service.deps.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\bin\Debug\net8.0\AuditTrail.Service.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\bin\Debug\net8.0\AuditTrail.Service.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\bin\Debug\net8.0\AuditTrail.Entities.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\bin\Debug\net8.0\AuditTrail.Entities.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.csproj.CopyComplete
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\obj\Debug\net8.0\refint\AuditTrail.Service.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit Trail\AuditTrailService\obj\Debug\net8.0\ref\AuditTrail.Service.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\bin\Debug\net8.0\AuditTrail.Service.deps.json
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\bin\Debug\net8.0\AuditTrail.Service.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\bin\Debug\net8.0\AuditTrail.Service.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\bin\Debug\net8.0\AuditTrail.Entities.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\bin\Debug\net8.0\AuditTrail.Entities.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.csproj.AssemblyReference.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.AssemblyInfoInputs.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.AssemblyInfo.cs
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.csproj.CoreCompileInputs.cache
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.csproj.CopyComplete
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\obj\Debug\net8.0\refint\AuditTrail.Service.dll
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\obj\Debug\net8.0\AuditTrail.Service.pdb
+C:\Users\arpitupadhyay01\OneDrive - Nagarro\Desktop\Audit-Trail\Audit-Trail\AuditTrailService\obj\Debug\net8.0\ref\AuditTrail.Service.dll
